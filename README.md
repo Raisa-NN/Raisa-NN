@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on projects to include in my personal portfolio to demonstrate my data analysis skills.
+- 👯 I’m looking to collaborate on projects which would require skills in python, SQL, data modelling, ETL process and/or cloud services related to analytics.
+By the way, I have a master's degree in bioinformatics.
+
+Thanks for stopping by!
+
 <!--
 **Raisa-NN/Raisa-NN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
