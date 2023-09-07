@@ -6,6 +6,8 @@ By the way, I have a master's degree in bioinformatics.
 
 Thanks for stopping by!
 
+P.S. Link to my Tableau Public Profile: https://public.tableau.com/app/profile/raisa.n
+
 <!--
 **Raisa-NN/Raisa-NN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
