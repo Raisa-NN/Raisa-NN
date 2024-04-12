@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I am a PhD student in the department of biomedical and health informatics.
 - 🔭 I’m currently working on projects to include in my personal portfolio to demonstrate data analysis skills.
-- 👯 I’m looking to collaborate on projects which would require skills in python, SQL, machine learning, ETL process and/or cloud services related to analytics.
+- 👯 I’m looking to collaborate on projects which would require skills in python, SQL, machine learning (NLP), ETL process, cloud services related to analytics and use of electronic health records.
 By the way, I have a master's degree in bioinformatics.
 
 Thanks for stopping by!
